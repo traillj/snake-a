@@ -1,0 +1,7 @@
+Chess.board.fabric.png, Chess.board.fabric.sprite.png -
+Description: Fabric Chess Board
+Date: June 2007
+Source: Own work
+Author: Reddi
+Licensed under CC-BY-SA 3.0
+https://commons.wikimedia.org/wiki/File:Chess.board.fabric.png
